@@ -1,6 +1,6 @@
 package seedu.duke;
 
-import Game.HangmanGame;
+import game.HangmanGame;
 
 import java.util.Scanner;
 

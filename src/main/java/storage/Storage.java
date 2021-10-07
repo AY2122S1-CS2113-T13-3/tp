@@ -1,7 +1,7 @@
-package Storage;
+package storage;
 
-import Game.Game;
-import Game.GameRecord;
+import game.Game;
+import game.GameRecord;
 
 import java.io.File;
 import java.io.FileWriter;

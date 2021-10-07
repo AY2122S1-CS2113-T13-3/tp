@@ -1,4 +1,4 @@
-package UI;
+package ui;
 import message.Message;
 public class GameMainMenu {
     public void showWelcome() {
