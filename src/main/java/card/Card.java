@@ -16,4 +16,9 @@ public class Card {
     public int getCardType() {
         return cardType;
     }
+
+    @Override
+    public String toString() {
+        return codeTip;
+    }
 }

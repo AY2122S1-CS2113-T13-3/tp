@@ -1,6 +1,6 @@
 package message;
 
-public class Message {
+public class Messages {
     /**
      * Store all the messages used in this program
      */
