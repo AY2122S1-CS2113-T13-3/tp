@@ -13,4 +13,4 @@ help        Display a list of available commands.
 about       Display information about Code Hunt.
 exit        Exit Code Hunt.
 
-Code Hunt > 
+Code Hunt >
