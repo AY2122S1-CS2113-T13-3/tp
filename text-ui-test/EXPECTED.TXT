@@ -6,11 +6,5 @@
 Welcome to A text-based code game for children ages 6 and up(Code Hunt).Are you ready to play?
 Type "help" to see a list of available commands.
 
-Code Hunt >
-newgame     Start a new game.
-continue    Continue the game stored previously.
-help        Display a list of available commands.
-about       Display information about Code Hunt.
-exit        Exit Code Hunt.
+Code Hunt > Thank you playing Code Hunt ! Have a nice day~~
 
-Code Hunt >

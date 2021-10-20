@@ -1,3 +1,5 @@
+package game;
+
 import java.io.IOException;
 import java.util.Scanner;
 import java.util.logging.Logger;

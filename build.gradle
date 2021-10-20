@@ -29,10 +29,11 @@ test {
 }
 
 application {
-    mainClassName = "Game"
+    mainClassName = "game.Game"
 }
 
 shadowJar {
+    archiveBaseName = "game"
     archiveClassifier = null
 }
 
